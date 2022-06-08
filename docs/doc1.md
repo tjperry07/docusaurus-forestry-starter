@@ -8,11 +8,9 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 
     console.log("hello");
 
-\`\`\`js
-
+```js
 console.log("hello");
-
-\`\`\`
+```
 
 ## Markdown Syntax
 
