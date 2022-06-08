@@ -14,6 +14,8 @@ To serve as an example page when styling markdown based Docusaurus sites.
 
 ## Headers
 
+Hello, I am some more content.
+
 # H1 - Create the best documentation
 
 ## H2 - Create the best documentation
@@ -50,11 +52,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 4. And another item.
 
 * Unordered list can use asterisks
-
-
 * Or minuses
-
-
 * Or pluses
 
 ***
